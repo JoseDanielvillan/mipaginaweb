@@ -1,0 +1,234 @@
+*{
+font-size:25px ;
+font-family: 'Playfair Display', serif;
+margin: 25px;
+text-align:justify ;
+}
+
+.indice__div{
+
+border-style: solid;
+border-color: skyblue;
+border-radius: 10px;
+border-width: 5px;
+background-color:rgb(252, 149, 103) ;
+
+
+}
+
+
+div:hover{
+background-color: lightgray;
+border-style: double;
+
+}
+
+.title-head{
+color: green;
+margin: 25px;
+padding: 25px;
+border-color: black;
+border-style: inset;
+border-width: 5px;
+border-radius: 10px;
+display: inline-block;
+text-align: center;
+font-size: 50px;
+font-family: 'Playfair Display', serif;
+text-decoration: underline ;
+}
+
+.introduccion__div{
+border-width: 5px;
+border-style: solid;
+border-color: lightblue;
+border-radius: 10px;
+background-color: lightgray;
+}
+
+
+.introduccion__h2{
+border-color: green;
+border-width: 5px;
+display: inline-block;
+border-radius: 20px;
+border-style: double;
+padding: 5px;
+
+}
+.introduccion__p{
+
+margin-left:50px;
+
+margin-top:10px ;
+
+}
+
+
+.cultura__div{
+border-style: solid;
+border-radius: 10px;
+border-width: 5px;
+border-color: skyblue;
+
+
+}
+
+.cultura__h2{
+border-style: solid;
+border-radius:17px ;
+display: inline-block;
+
+
+}
+
+.cultura__div
+{
+
+  background: lightblue;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: lightgray;
+}
+
+.cristo__div{
+
+background-color: rgb(246, 165, 115);
+border-style: solid;
+border-color: rgb(178, 29, 196);
+border-radius: 10px;
+border-width: 5px;
+
+
+}
+
+.cristo__h2{
+
+background-color: ;
+border-style: solid;
+border-color: rgb(145, 14, 161);
+border-radius: 10px;
+border-width: 5px;
+border-color: ;
+display: inline-block;
+
+}
+
+.lugares__div{
+
+background-color:rgb(134, 236, 157) ;
+border-style: solid;
+border-color: rgb(145, 14, 161);
+border-radius: 10px;
+border-width: 5px;
+border-color: ;
+display: inline-block;
+
+
+
+
+
+
+}
+
+
+.lugares__h2{
+border-style: solid;
+border-radius: 5px;
+border-color: black;
+border-width: 5px;
+
+
+
+}
+
+
+.famosos__div{
+
+
+  background-color:rgb(134, 236, 157) ;
+border-style: solid;
+border-color: rgb(145, 14, 161);
+border-radius: 10px;
+border-width: 5px;
+border-color: ;
+display: inline-block;
+
+}
+
+.deportes__div{
+
+  background-color:rgb(243, 247, 26) ;
+border-style: solid;
+border-color: rgb(145, 14, 161);
+border-radius: 10px;
+border-width: 5px;
+border-color: ;
+display: inline-block;
+
+
+}
+
+
+
+
+
+
+
+table.blueTable {
+  border: 1px solid #17CE3D;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.blueTable tbody td {
+  font-size: 13px;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #3AA416;
+  background: -moz-linear-gradient(top, #6bbb50 0%, #4dad2d 66%, #3AA416 100%);
+  background: -webkit-linear-gradient(top, #6bbb50 0%, #4dad2d 66%, #3AA416 100%);
+  background: linear-gradient(to bottom, #6bbb50 0%, #4dad2d 66%, #3AA416 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.blueTable tfoot td {
+  font-size: 14px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
